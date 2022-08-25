@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Headless WordPress.
 - 🌱 I’m currently learning WordPress Plugin Development with React.
-- 👯 I’m looking to collaborate to solve bugs.
+- 👯 I’m looking to collaborate on your open-source project.
 - 💬 Ask me about software solutions.
 - 📫 How to reach me: nahidhassan.jony@gmail.com
 
