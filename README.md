@@ -4,7 +4,6 @@ I am Nahid Hasan, an entrepreneur, developer, and open-source enthusiast. I love
 
 I dabble with code, design, and DevOps, love to build products and solutions. I'm trying to build Themeony – a product company, where we will empower small to medium businesses around the world with our software solutions.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Headless WordPress.
 - 🌱 I’m currently learning WordPress Plugin Development with React.
