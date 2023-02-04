@@ -4,7 +4,7 @@ I am Nahid Hasan, an entrepreneur, developer, and open-source enthusiast. I love
 
 
 - 🔭 I’m currently working on Headless WordPress.
-- 🌱 I’m currently doing freelance job in Fiverr and Upwork marketplace.
+- 🌱 I’m doing freelance job in Fiverr and Upwork marketplace.
 - 👯 I’m looking to collaborate on your open-source project.
 - 💬 Ask me about software solutions.
 - 📫 How to reach me: nahidhassan.jony@gmail.com
